@@ -745,6 +745,7 @@ You MUST return a JSON object with the following structure:
             print("   • No conversation patterns available - using base VC database only")
         
         # Get OPTIMIZED SYSTEM PROMPT
+        
         query = self._get_optimized_system_prompt(startup_idea)
         
         try:
@@ -765,7 +766,7 @@ You MUST return a JSON object with the following structure:
 
 if __name__ == "__main__":
     # Initialize with your Gemini API key
-    recommender = EnhancedVCRecommender(gemini_api_key="AIzaSyCJoMnwvwrnnIRBZ0noZIYxTMkGb_l6EC0")
+    recommender = EnhancedVCRecommender(gemini_api_key="*****************")
     
     # Get recommendations (replace paths with your actual data folders)
     recommendations = recommender.get_enhanced_recommendations(
