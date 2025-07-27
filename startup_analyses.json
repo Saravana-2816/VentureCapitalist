@@ -1,40 +1,5 @@
 [
-  {
-    "startup_summary": {
-      "name": "Startup_20250726_202551",
-      "idea": "not_specified",
-      "domain": "not_specified",
-      "target_audience": [],
-      "unique_value_proposition": "not_specified",
-      "geographic_focus": "not_specified",
-      "target_market_size": "not_specified"
-    },
-    "product_details": {
-      "core_features": [],
-      "technology_stack": [],
-      "platforms": [],
-      "development_stage": "not_specified"
-    },
-    "business_model": {
-      "revenue_streams": [],
-      "pricing_strategy": "not_specified",
-      "monetization_strategy": "not_specified",
-      "projected_break_even": "not_specified"
-    },
-    "market_strategy": {
-      "key_differentiators": [],
-      "engagement_strategies": [],
-      "partnership_opportunities": []
-    },
-    "conversation_insights": {
-      "key_discussions": [],
-      "concerns_raised": [],
-      "next_steps": []
-    },
-    "tags": [],
-    "source_file": "D:\\Desktop\\New folder (4)\\Conversations\\Fitness.txt",
-    "analysis_date": "2025-07-26T20:25:51.630541"
-  },
+  
   {
     "startup_summary": {
       "name": "FitAI Millennial",
