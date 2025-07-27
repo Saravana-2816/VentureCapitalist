@@ -1,0 +1,692 @@
+[
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "View Sheet",
+    "link": "https://www.vcsheet.com/sheet/funds-that-lead-pre-seeds",
+    "entity_type": "Fund",
+    "number_of_entities": 73,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  },
+  {
+    "sheet_name": "Most prolific pre-seed fundsPre-revenue, pre-traction, or even pre-product? These are the most likely to get to yes and back your startup at the very beginning.15",
+    "description": "View Sheet",
+    "link": "https://www.vcsheet.com/sheet/most-prolific-pre-seed-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 15,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Most prolific pre-seed fundsPre-revenue, pre-traction, or even pre-product? These are the most likely to get to yes and back your startup at the very beginning.15"
+  },
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "View Sheet",
+    "link": "https://www.vcsheet.com/sheet/funds-that-lead-seeds",
+    "entity_type": "Fund",
+    "number_of_entities": 94,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  },
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "View Sheet",
+    "link": "https://www.vcsheet.com/sheet/funds-that-lead-series-a",
+    "entity_type": "Fund",
+    "number_of_entities": 158,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  },
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "View Sheet",
+    "link": "https://www.vcsheet.com/sheet/funds-that-lead-series-b",
+    "entity_type": "Fund",
+    "number_of_entities": 61,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  },
+  {
+    "sheet_name": "The VCs leading seeds at top multi-stage fundsMulti-stage funds are huge, but the difference between getting an investment or not often comes down to your relationship with one specific GP. Here are the individual investors at top multi-stage funds that lead the most seed rounds.85Investors",
+    "description": "The VCs leading seeds at top multi-stage fundsMulti-stage funds are huge, but the difference between getting an investment or not often comes down to your relationship with one specific GP. Here are the individual investors at top multi-stage funds that lead the most seed rounds.85Investors",
+    "link": "https://www.vcsheet.com/sheet/the-vcs-that-lead-seeds-at-top-multi-stage-funds",
+    "entity_type": "Investor",
+    "number_of_entities": 85,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "The VCs leading seeds at top multi-stage fundsMulti-stage funds are huge, but the difference between getting an investment or not often comes down to your relationship with one specific GP. Here are the individual investors at top multi-stage funds that lead the most seed rounds.85Investors"
+  },
+  {
+    "sheet_name": "Deeptech fundsBuilding in deeptech? Start with the funds with deep expertise and interest in the space. Start here.96",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/deeptech-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 96,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Deeptech fundsBuilding in deeptech? Start with the funds with deep expertise and interest in the space. Start here.96"
+  },
+  {
+    "sheet_name": "Enterprise fundsBuilding enterprise SaaS? Start with the funds that live and breathe B2B SaaS. Start here.60",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/enterprise-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 60,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Enterprise fundsBuilding enterprise SaaS? Start with the funds that live and breathe B2B SaaS. Start here.60"
+  },
+  {
+    "sheet_name": "Digital Health fundsBuilding in digital health? Start with the funds with deep expertise and interest in the space. Start here.78",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/digital-health-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 78,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Digital Health fundsBuilding in digital health? Start with the funds with deep expertise and interest in the space. Start here.78"
+  },
+  {
+    "sheet_name": "Biotech fundsBuilding in biotech? Start with the funds with deep expertise and interest in the space. Start here.86",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/biotech-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 86,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Biotech fundsBuilding in biotech? Start with the funds with deep expertise and interest in the space. Start here.86"
+  },
+  {
+    "sheet_name": "Investors focused on EnergyThese individual investors know energy better than most, and are actively investing.1",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/investors-focused-on-cybersecurity",
+    "entity_type": "Investor",
+    "number_of_entities": 1,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on EnergyThese individual investors know energy better than most, and are actively investing.1"
+  },
+  {
+    "sheet_name": "web3 fundsBuilding in web3? Start with the funds with deep expertise and interest in the space. Start here.95",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/web3-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 95,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "web3 fundsBuilding in web3? Start with the funds with deep expertise and interest in the space. Start here.95"
+  },
+  {
+    "sheet_name": "AI fundsBuilding in AI? Start with the funds with deep expertise and interest in the space. Start here.44",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/ai-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 44,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "AI fundsBuilding in AI? Start with the funds with deep expertise and interest in the space. Start here.44"
+  },
+  {
+    "sheet_name": "CPG & D2C fundsBuilding the next great consumer brand? Start with the funds with deep expertise and interest in the space. Start here.30",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/cpg-d2c-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 30,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "CPG & D2C fundsBuilding the next great consumer brand? Start with the funds with deep expertise and interest in the space. Start here.30"
+  },
+  {
+    "sheet_name": "Consumer fundsBuilding in consumer? Start with the funds with deep expertise and interest in the space. Start here.55",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/consumer-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 55,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Consumer fundsBuilding in consumer? Start with the funds with deep expertise and interest in the space. Start here.55"
+  },
+  {
+    "sheet_name": "Edtech fundsBuilding in edtech? Start with the funds with deep expertise and interest in the space. Start here.31",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/edtech-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 31,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Edtech fundsBuilding in edtech? Start with the funds with deep expertise and interest in the space. Start here.31"
+  },
+  {
+    "sheet_name": "Fintech fundsBuilding in fintech? Start with the funds with deep expertise and interest in the space. Start here.50",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/fintech-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 50,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Fintech fundsBuilding in fintech? Start with the funds with deep expertise and interest in the space. Start here.50"
+  },
+  {
+    "sheet_name": "Logistics fundsPlanning to disrupt the logistics and supply chain industry? Start by making sure you're backed by experienced investors in the space. Start here. 31",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/logistics-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 31,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Logistics fundsPlanning to disrupt the logistics and supply chain industry? Start by making sure you're backed by experienced investors in the space. Start here. 31"
+  },
+  {
+    "sheet_name": "Climate fundsBuilding in climate? Start with the funds with deep expertise and interest in the space. Start here.64",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/climate-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 64,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Climate fundsBuilding in climate? Start with the funds with deep expertise and interest in the space. Start here.64"
+  },
+  {
+    "sheet_name": "Developer tool fundsBuilding in devtools? Start with the funds with deep expertise and interest in the space. Start here.41",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/devtools",
+    "entity_type": "Fund",
+    "number_of_entities": 41,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Developer tool fundsBuilding in devtools? Start with the funds with deep expertise and interest in the space. Start here.41"
+  },
+  {
+    "sheet_name": "Agriculture fundsBuilding in agriculture? Start with the funds with deep expertise and interest in the space. Start here.16",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/agriculture",
+    "entity_type": "Fund",
+    "number_of_entities": 16,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Agriculture fundsBuilding in agriculture? Start with the funds with deep expertise and interest in the space. Start here.16"
+  },
+  {
+    "sheet_name": "Real estate / proptech fundsBuilding in real estate or proptech? Start with the funds with deep expertise and interest in the space. Start here.30",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/real-estate-and-construction",
+    "entity_type": "Fund",
+    "number_of_entities": 30,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Real estate / proptech fundsBuilding in real estate or proptech? Start with the funds with deep expertise and interest in the space. Start here.30"
+  },
+  {
+    "sheet_name": "Cybersecurity fundsBuilding in cybersecurity? Start with the funds with deep expertise and interest in the space. Start here.24",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/cybersecurity",
+    "entity_type": "Fund",
+    "number_of_entities": 24,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Cybersecurity fundsBuilding in cybersecurity? Start with the funds with deep expertise and interest in the space. Start here.24"
+  },
+  {
+    "sheet_name": "Space fundsBuilding in space? Start with the funds with deep expertise and interest. Start here.36",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/space",
+    "entity_type": "Fund",
+    "number_of_entities": 36,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Space fundsBuilding in space? Start with the funds with deep expertise and interest. Start here.36"
+  },
+  {
+    "sheet_name": "Advanced Materials fundsBuilding in advanced materials? Start with the funds with deep expertise and interest in the space. Start here.20",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/bio-life-sciences-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 20,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Advanced Materials fundsBuilding in advanced materials? Start with the funds with deep expertise and interest in the space. Start here.20"
+  },
+  {
+    "sheet_name": "Construction fundsBuilding in construction? Start with the funds with deep expertise and interest in the space. Start here.25",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/construction-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 25,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Construction fundsBuilding in construction? Start with the funds with deep expertise and interest in the space. Start here.25"
+  },
+  {
+    "sheet_name": "Cleantech fundsBuilding in cleantech? Start with the funds with deep expertise and interest in the space. Start here.37",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/cleantech-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 37,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Cleantech fundsBuilding in cleantech? Start with the funds with deep expertise and interest in the space. Start here.37"
+  },
+  {
+    "sheet_name": "Marketplace fundsBuilding a marketplace? Start with the funds with deep expertise and interest in the space. Start here.34",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/marketplace-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 34,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Marketplace fundsBuilding a marketplace? Start with the funds with deep expertise and interest in the space. Start here.34"
+  },
+  {
+    "sheet_name": "Publishing fundsBuilding in publishing? Start with the funds with deep expertise and interest in the space. Start here.17",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/publishing-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 17,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Publishing fundsBuilding in publishing? Start with the funds with deep expertise and interest in the space. Start here.17"
+  },
+  {
+    "sheet_name": "Platform fundsBuilding a platform? Start with the funds with deep expertise and interest in the space. Start here.21",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/platform-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 21,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Platform fundsBuilding a platform? Start with the funds with deep expertise and interest in the space. Start here.21"
+  },
+  {
+    "sheet_name": "Gaming fundsBuilding in gaming? Start with the funds with deep expertise and interest in the space. Start here.25",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/gaming-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 25,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Gaming fundsBuilding in gaming? Start with the funds with deep expertise and interest in the space. Start here.25"
+  },
+  {
+    "sheet_name": "Infrastructure fundsBuilding in software infrastructure? Start with the funds with deep expertise and interest in the space. Start here.29",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/infrastructure-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 29,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Infrastructure fundsBuilding in software infrastructure? Start with the funds with deep expertise and interest in the space. Start here.29"
+  },
+  {
+    "sheet_name": "Internet of things (IoT) fundsBuilding in IoT? Start with the funds with deep expertise and interest in the space. Start here.27",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/internet-of-things-iot-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 27,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Internet of things (IoT) fundsBuilding in IoT? Start with the funds with deep expertise and interest in the space. Start here.27"
+  },
+  {
+    "sheet_name": "Healthcare fundsBuilding in healthcare? Start with the funds with deep expertise and interest in the space. Start here.29",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/healthcare-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 29,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Healthcare fundsBuilding in healthcare? Start with the funds with deep expertise and interest in the space. Start here.29"
+  },
+  {
+    "sheet_name": "Sales fundsBuilding in sales? Start with the funds with deep expertise and interest in the space. Start here.33",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/sales-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 33,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Sales fundsBuilding in sales? Start with the funds with deep expertise and interest in the space. Start here.33"
+  },
+  {
+    "sheet_name": "Future of Work fundsBuilding in the future of work? Start with the funds with deep expertise and interest in the space. Start here.51",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/future-of-work-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 51,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Future of Work fundsBuilding in the future of work? Start with the funds with deep expertise and interest in the space. Start here.51"
+  },
+  {
+    "sheet_name": "Entertainment & Sports fundsBuilding in entertainment or sports? Start with the funds with deep expertise and interest in the space. Start here.32",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/entertainment-sports-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 32,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Entertainment & Sports fundsBuilding in entertainment or sports? Start with the funds with deep expertise and interest in the space. Start here.32"
+  },
+  {
+    "sheet_name": "Sustainability fundsBuilding in sustainability? Start with the funds with deep expertise and interest in the space. Start here.23",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/sustainability-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 23,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Sustainability fundsBuilding in sustainability? Start with the funds with deep expertise and interest in the space. Start here.23"
+  },
+  {
+    "sheet_name": "Travel fundsBuilding in travel? Start with the funds with deep expertise and interest in the space. Start here.32",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/travel-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 32,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Travel fundsBuilding in travel? Start with the funds with deep expertise and interest in the space. Start here.32"
+  },
+  {
+    "sheet_name": "Insurance fundsBuilding in insurance? Start with the funds with deep expertise and interest in the space. Start here.24",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/insurance-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 24,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Insurance fundsBuilding in insurance? Start with the funds with deep expertise and interest in the space. Start here.24"
+  },
+  {
+    "sheet_name": "Medical Device fundsBuilding in medical devices? Start with the funds with deep expertise and interest in the space. Start here.31",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/medical-device-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 31,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Medical Device fundsBuilding in medical devices? Start with the funds with deep expertise and interest in the space. Start here.31"
+  },
+  {
+    "sheet_name": "Payments fundsBuilding in payments? Start with the funds with deep expertise and interest in the space. Start here.28",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/payments-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 28,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Payments fundsBuilding in payments? Start with the funds with deep expertise and interest in the space. Start here.28"
+  },
+  {
+    "sheet_name": "Material Science fundsBuilding in material science? Start with the funds with deep expertise and interest in the space. Start here.35",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/material-science-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 35,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Material Science fundsBuilding in material science? Start with the funds with deep expertise and interest in the space. Start here.35"
+  },
+  {
+    "sheet_name": "E-Commerce fundsBuilding in e-commerce? Start with the funds with deep expertise and interest in the space. Start here.57",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/e-commerce-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 57,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "E-Commerce fundsBuilding in e-commerce? Start with the funds with deep expertise and interest in the space. Start here.57"
+  },
+  {
+    "sheet_name": "Investors focused on HardwareThese individual investors know hardware better than most, and are actively investing.37Investors",
+    "description": "Investors focused on HardwareThese individual investors know hardware better than most, and are actively investing.37Investors",
+    "link": "https://www.vcsheet.com/sheet/investors-focused-on-future-of-work-18087",
+    "entity_type": "Investor",
+    "number_of_entities": 37,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on HardwareThese individual investors know hardware better than most, and are actively investing.37Investors"
+  },
+  {
+    "sheet_name": "Investors focused on Future of WorkThese individual investors know the future of work better than most, and are actively investing.33Investors",
+    "description": "Investors focused on Future of WorkThese individual investors know the future of work better than most, and are actively investing.33Investors",
+    "link": "https://www.vcsheet.com/sheet/investors-focused-on-future-of-work",
+    "entity_type": "Investor",
+    "number_of_entities": 33,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on Future of WorkThese individual investors know the future of work better than most, and are actively investing.33Investors"
+  },
+  {
+    "sheet_name": "Investors focused on EnergyThese individual investors know energy better than most, and are actively investing.27Investors",
+    "description": "Investors focused on EnergyThese individual investors know energy better than most, and are actively investing.27Investors",
+    "link": "https://www.vcsheet.com/sheet/investors-focused-on-cybersecurity",
+    "entity_type": "Investor",
+    "number_of_entities": 27,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on EnergyThese individual investors know energy better than most, and are actively investing.27Investors"
+  },
+  {
+    "sheet_name": "Investors focused on CybersecurityThese individual investors know cybersecurity better than most, and are actively investing.25Investors",
+    "description": "Investors focused on CybersecurityThese individual investors know cybersecurity better than most, and are actively investing.25Investors",
+    "link": "https://www.vcsheet.com/sheet/investors-focused-on-data-services-c9b33",
+    "entity_type": "Investor",
+    "number_of_entities": 25,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on CybersecurityThese individual investors know cybersecurity better than most, and are actively investing.25Investors"
+  },
+  {
+    "sheet_name": "Investors focused on Data ServicesThese individual investors know data services better than most, and are actively investing.33Investors",
+    "description": "Investors focused on Data ServicesThese individual investors know data services better than most, and are actively investing.33Investors",
+    "link": "https://www.vcsheet.com/sheet/investors-focused-on-data-services",
+    "entity_type": "Investor",
+    "number_of_entities": 33,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on Data ServicesThese individual investors know data services better than most, and are actively investing.33Investors"
+  },
+  {
+    "sheet_name": "Investors focused on Consumer HealthThese individual investors know consumer health better than most, and are actively investing.38Investors",
+    "description": "Investors focused on Consumer HealthThese individual investors know consumer health better than most, and are actively investing.38Investors",
+    "link": "https://www.vcsheet.com/sheet/investors-focused-on-consumer-health",
+    "entity_type": "Investor",
+    "number_of_entities": 38,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on Consumer HealthThese individual investors know consumer health better than most, and are actively investing.38Investors"
+  },
+  {
+    "sheet_name": "Investors focused on InsuranceThese individual investors know insurance better than most, and are actively investing.20Investors",
+    "description": "Investors focused on InsuranceThese individual investors know insurance better than most, and are actively investing.20Investors",
+    "link": "https://www.vcsheet.com/sheet/investors-focused-on-insurance",
+    "entity_type": "Investor",
+    "number_of_entities": 20,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on InsuranceThese individual investors know insurance better than most, and are actively investing.20Investors"
+  },
+  {
+    "sheet_name": "Investors focused on PaymentsThese individual investors know payments better than most, and are actively investing.20Investors",
+    "description": "Investors focused on PaymentsThese individual investors know payments better than most, and are actively investing.20Investors",
+    "link": "https://www.vcsheet.com/sheet/payments-investor",
+    "entity_type": "Investor",
+    "number_of_entities": 20,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on PaymentsThese individual investors know payments better than most, and are actively investing.20Investors"
+  },
+  {
+    "sheet_name": "Investors focused on AIThese individual investors know AI better than most, and are actively investing.64Investors",
+    "description": "Investors focused on AIThese individual investors know AI better than most, and are actively investing.64Investors",
+    "link": "https://www.vcsheet.com/sheet/top-ai-investors",
+    "entity_type": "Investor",
+    "number_of_entities": 64,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on AIThese individual investors know AI better than most, and are actively investing.64Investors"
+  },
+  {
+    "sheet_name": "Investors focused on fintechThese individual investors know fintech better than most, and are actively investing.77Investors",
+    "description": "Investors focused on fintechThese individual investors know fintech better than most, and are actively investing.77Investors",
+    "link": "https://www.vcsheet.com/sheet/top-fintech-investors",
+    "entity_type": "Investor",
+    "number_of_entities": 77,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Investors focused on fintechThese individual investors know fintech better than most, and are actively investing.77Investors"
+  },
+  {
+    "sheet_name": "Solo GP fundsSolo GPs are a rising force in venture capital. They tend to move fast, be more flexible in allocation and valuation, and provide personal support. If you want to pitch some stellar solo GPs, start here.58",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/solo-gp-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 58,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Solo GP fundsSolo GPs are a rising force in venture capital. They tend to move fast, be more flexible in allocation and valuation, and provide personal support. If you want to pitch some stellar solo GPs, start here.58"
+  },
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/funds-focused-on-under-represented-founders",
+    "entity_type": "Fund",
+    "number_of_entities": 51,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  },
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/funds-focused-on-female-founders",
+    "entity_type": "Fund",
+    "number_of_entities": 27,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  },
+  {
+    "sheet_name": "Black-founded fundsThese Black-founded funds are disrupting the traditional VC scene. 70",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/black-founded-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 70,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Black-founded fundsThese Black-founded funds are disrupting the traditional VC scene. 70"
+  },
+  {
+    "sheet_name": "Female-founded fundsThese female-founded funds are disrupting the traditional VC scene. 83",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/female-founded-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 83,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Female-founded fundsThese female-founded funds are disrupting the traditional VC scene. 83"
+  },
+  {
+    "sheet_name": "AcceleratorsYou've probably heard of YC, but there are many other active accelerators. Here's our list of the top accelerators active in North America.19",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/accelerators",
+    "entity_type": "Fund",
+    "number_of_entities": 19,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "AcceleratorsYou've probably heard of YC, but there are many other active accelerators. Here's our list of the top accelerators active in North America.19"
+  },
+  {
+    "sheet_name": "Udemy Founder's VC PicksA curated list of Investors from Gagan Biyani (Founder of Udemy)13Investors",
+    "description": "Udemy Founder's VC PicksA curated list of Investors from Gagan Biyani (Founder of Udemy)13Investors",
+    "link": "https://www.vcsheet.com/sheet/udemy-founder-vc-picks",
+    "entity_type": "Investor",
+    "number_of_entities": 13,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Udemy Founder's VC PicksA curated list of Investors from Gagan Biyani (Founder of Udemy)13Investors"
+  },
+  {
+    "sheet_name": "Loom Founder's VC PicksA curated list of Investors from Shahed Khan (Founder of Loom)8Investors",
+    "description": "Loom Founder's VC PicksA curated list of Investors from Shahed Khan (Founder of Loom)8Investors",
+    "link": "https://www.vcsheet.com/sheet/loom-founder-vc-picks",
+    "entity_type": "Investor",
+    "number_of_entities": 8,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Loom Founder's VC PicksA curated list of Investors from Shahed Khan (Founder of Loom)8Investors"
+  },
+  {
+    "sheet_name": "NYC-focused fundsBased in NYC, and want investors that are deep in the local ecosystem, know local candidates, and won't push you to move to the Bay? Start here.75",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/nyc-focused-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 75,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "NYC-focused fundsBased in NYC, and want investors that are deep in the local ecosystem, know local candidates, and won't push you to move to the Bay? Start here.75"
+  },
+  {
+    "sheet_name": "LA-focused fundsBased in LA, and want investors that are deep in the local ecosystem, know local candidates, and won't push you to move to the Bay? Then start here.63",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/la-focused-funds",
+    "entity_type": "Fund",
+    "number_of_entities": 63,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "LA-focused fundsBased in LA, and want investors that are deep in the local ecosystem, know local candidates, and won't push you to move to the Bay? Then start here.63"
+  },
+  {
+    "sheet_name": "Rocky Mountain-focused fundsBased in Rocky Mountain, and looking to raise? Start with the funds that have a solid track record of investing in the region. Start here.33",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/rocky-mountain-investors",
+    "entity_type": "Fund",
+    "number_of_entities": 33,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Rocky Mountain-focused fundsBased in Rocky Mountain, and looking to raise? Start with the funds that have a solid track record of investing in the region. Start here.33"
+  },
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/funds-investing-in-africa",
+    "entity_type": "Fund",
+    "number_of_entities": 34,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  },
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/funds-investing-in-india",
+    "entity_type": "Fund",
+    "number_of_entities": 50,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  },
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/funds-investing-in-latam",
+    "entity_type": "Fund",
+    "number_of_entities": 33,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  },
+  {
+    "sheet_name": "Unknown Sheet",
+    "description": "",
+    "link": "https://www.vcsheet.com/sheet/funds-investing-in-southeast-asia",
+    "entity_type": "Fund",
+    "number_of_entities": 15,
+    "tags": [],
+    "focus": "Round",
+    "round_type": "Unknown Sheet"
+  }
+]
